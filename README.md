@@ -1,7 +1,7 @@
 # 📊 AtliQ Mart: Retail Promotion Analysis (FMCG Domain)
 
 ## 📋 Executive Summary
-[cite_start]AtliQ Mart, a retail giant in Southern India, conducted massive promotional campaigns during Diwali 2023 and Sankranti 2024[cite: 25, 26]. [cite_start]The objective of this project is to provide Sales Director **Bruce Haryali** with tangible insights into which promotions performed well and which did not to inform future strategies[cite: 21, 27]. Analysis reveals that while **BOGOF** and **500 Cashback** successfully drove revenue growth, high-percentage discounts (% OFF) often resulted in negative incremental revenue.
+AtliQ Mart, a retail giant in Southern India, conducted massive promotional campaigns during Diwali 2023 and Sankranti 2024. The objective of this project is to provide Sales Director **Bruce Haryali** with tangible insights into which promotions performed well and which did not to inform future strategies. Analysis reveals that while **BOGOF** and **500 Cashback** successfully drove revenue growth, high-percentage discounts (% OFF) often resulted in negative incremental revenue.
 
 ---
 
@@ -14,7 +14,9 @@ Based on the dashboard analysis, the overall performance metrics are as follows:
 * **ISU%:** 108.31%
 * **IR%:** 76.25%
 
----
+## 📊 Dashboard Preview
+
+![Campaign Dashboard](images/1.png)
 
 ## 🔍 Deep-Dive Insights (Insight Buckets)
 
@@ -38,15 +40,15 @@ The following business questions from senior executives were answered using opti
 
 1.  **High-Value BOGOF Identification:** Identified products with a base price > 500 featured in BOGOF deals (e.g., Atliq_Double_Bedsheet_set) to evaluate heavy discounting.
 2.  **Store Presence Overview:** Confirmed Bengaluru and Chennai as the cities with the highest store density.
-3.  [cite_start]**Financial Impact Analysis:** Compared total revenue before and after campaigns in millions to assess fiscal success[cite: 67, 69].
+3.  **Financial Impact Analysis:** Compared total revenue before and after campaigns in millions to assess fiscal success.
 4.  **Category Success (Diwali):** Ranked categories by ISU% during the Diwali campaign, with Home Appliances (244.22%) taking the top spot.
 5.  **Product Optimization:** Identified the Top 5 products by Incremental Revenue Percentage (IR%), led by `Atliq_Home_Essential_8` at 151.96%.
 
 ---
 
 ## 🏗️ Technical Stack
-* [cite_start]**Database:** MsSQL (Data analysis and ad-hoc reporting) [cite: 59]
-* [cite_start]**Visualization:** Power BI (Interactive dashboard development) [cite: 36]
+* **Database:** MsSQL (Data analysis and ad-hoc reporting) 
+* **Visualization:** Power BI (Interactive dashboard development) 
 * **Skills:** SQL Window Functions (Ranking), DAX, Data Modeling, and Business Analysis.
 
 ---
@@ -57,4 +59,6 @@ The following business questions from senior executives were answered using opti
 3.  **Scale Combo Deals:** Given the massive success of the Combo1 category, expand these bundles to other high-margin products in future campaigns.
 
 ---
-[cite_start]*Developed by Neeraj Singh (Data Analyst at AtliQ Mart)* [cite: 32]
+*Developed by Neeraj Singh (Data Analyst at AtliQ Mart)*
+<a href="https://www.linkedin.com/in/neerajsinghdatanerd/" target="_blank">[LinkedIn Profile Link]</a>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiZDBhY2RkMjItZDdjYy00ZDcxLWIwNzctNDk4MjJkZjllYzU2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9">[Power BI Report Link]</a>
