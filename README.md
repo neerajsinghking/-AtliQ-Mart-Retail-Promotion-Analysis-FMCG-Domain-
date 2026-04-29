@@ -1,7 +1,13 @@
 # 📊 AtliQ Mart: Retail Promotion Analysis (FMCG Domain)
 
 ## 📋 Executive Summary
-AtliQ Mart, a retail giant in Southern India, conducted massive promotional campaigns during Diwali 2023 and Sankranti 2024. The objective of this project is to provide Sales Director **Bruce Haryali** with tangible insights into which promotions performed well and which did not to inform future strategies. Analysis reveals that while **BOGOF** and **500 Cashback** successfully drove revenue growth, high-percentage discounts (% OFF) often resulted in negative incremental revenue.
+AtliQ Mart, a retail giant in Southern India, conducted massive promotional campaigns during Diwali 2023 and Sankranti 2024. The objective of this project is to provide Sales Director with tangible insights into which promotions performed well and which did not to inform future strategies. Analysis reveals that while **BOGOF** and **500 Cashback** successfully drove revenue growth, high-percentage discounts (% OFF) often resulted in negative incremental revenue.
+
+---
+
+## 🏢 Business Scenario
+AtliQ Mart, a leading retail giant with over 50 supermarkets in Southern India, launched a series of high-stakes promotional campaigns during the Diwali 2023 and Sankranti 2024 festive seasons. The goal was to capture the festive demand for AtliQ-branded products. However, the Sales Director, noticed a discrepancy between high sales volumes and actual bottom-line growth.  
+As a data analyst, I was tasked with evaluating the financial impact of these promotions. The objective was to identify which promotion types were truly profitable ("Incremental Revenue") versus those that merely "bought" sales at the cost of margins.  
 
 ---
 
