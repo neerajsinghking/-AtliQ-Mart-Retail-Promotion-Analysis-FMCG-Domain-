@@ -16,7 +16,7 @@ Based on the dashboard analysis, the overall performance metrics are as follows:
 
 ## 📊 Dashboard Preview
 
-![Campaign Dashboard](images/1.png)
+![Promotions Performence Dashboard](images/1.png)
 
 ## 🔍 Deep-Dive Insights (Insight Buckets)
 
