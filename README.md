@@ -66,5 +66,4 @@ The following business questions from senior executives were answered using opti
 
 ---
 *Developed by Neeraj Singh (Data Analyst at AtliQ Mart)*
-<a href="https://www.linkedin.com/in/neerajsinghdatanerd/" target="_blank">[LinkedIn Profile Link]</a>
 <a href="https://app.powerbi.com/view?r=eyJrIjoiZDBhY2RkMjItZDdjYy00ZDcxLWIwNzctNDk4MjJkZjllYzU2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9">[Power BI Report Link]</a>
